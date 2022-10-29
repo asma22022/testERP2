@@ -1,1 +1,1 @@
-le continue du 1er test 
+le continue du 1er test est maintenant modifié directement dans le serveur GLOBAL
